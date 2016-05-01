@@ -12,8 +12,8 @@ gem 'jquery-turbolinks', '~> 2.1.0'
 gem 'carrierwave', github: 'carrierwaveuploader/carrierwave'
 gem 'carrierwave_direct', '~> 0.0.15'
 gem 'rmagick', '~> 2.15', '>= 2.15.4'
-gem "fog"
-gem "figaro"
+gem 'fog'
+gem 'figaro'
 gem 'aws-sdk', '~> 2'
 gem 'sass-rails', '~> 5.0'
 gem 'uglifier', '>= 1.3.0'
